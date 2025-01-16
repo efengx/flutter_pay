@@ -2,6 +2,10 @@
 
 A plugin to add payments to your Flutter application.
 
+## source
+
+flutter pub pay 3.1.0
+
 ## Platform Support
 | Android | iOS |
 |:---:|:---:|
